@@ -1,2 +1,2 @@
 # Lu-Rajapkse-s-cICA-Algorithm-R-Implementation
-POC of Lu-Rajapakse's cICA algorithm, working script in R with different hidden signal simulations
+POC & Benchmark of Lu-Rajapakse's, Lin et al. and Zhang's cICA algorithm, working scripts in R with different hidden signal simulations, data-preprocessing, EDA, and implementations of different "flavours" of cICA.
